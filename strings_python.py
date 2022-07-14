@@ -8,3 +8,9 @@ print("hello" + " sneks")
 greet = "Hello"
 name = input("Please enter your name:")
 print (greet + ' ' + name)
+
+age = 24
+
+##get type of variable
+
+print(type(age))
