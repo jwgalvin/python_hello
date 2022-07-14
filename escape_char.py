@@ -5,3 +5,12 @@ print(tabbed)
 
 print('the pet show "word, \'e\'s resting".')
 print("the pet show \"word, 'e's resting\".")
+print("""the pet show "word, 'e's resting".""")
+
+anotherSplit = """this 
+has
+been split \
+over 
+multiple 
+lines"""
+print(anotherSplit)
