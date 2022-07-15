@@ -4,10 +4,10 @@ print(a + b)
 print(a - b)
 print(a * b)
 print(a / b)
-print(a // b)  #integer division rounded down
+print(a // b)  #integer division rounded down  avoids the error the division makes with float.
 print(a % b) #get the remainder
 
 print()
 
-for i in range(1, 4):
+for i in range(1, a//b):
     print(i)
