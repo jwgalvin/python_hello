@@ -9,5 +9,6 @@ print(a % b) #get the remainder
 
 print()
 
-for i in range(1, a//b):
-    print(i)
+print(a + b / 3 - 4 * 12)
+print(a + (b/3 - (4 * 12)))
+print((((a+b) / 3) - 4) * 12)
