@@ -12,3 +12,4 @@ print()
 print(a + b / 3 - 4 * 12)
 print(a + (b/3 - (4 * 12)))
 print((((a+b) / 3) - 4) * 12)
+#BEDMAS, BODMAS, BIDMAS  division and multiplication have equal precedence. same with addition/subtraction
