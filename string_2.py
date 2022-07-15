@@ -30,3 +30,5 @@ parrot = "Norwegian Blue"
 print(parrot[0:6:2]) #Nre  moves in steps of 2
 print(parrot[0:6:3]) #Nw   moves in steps of 3
 
+# python has 5 sequence tyoes built in. String, list, tuple, range and bytes & bytearray
+#ranges cannot be concantenated
