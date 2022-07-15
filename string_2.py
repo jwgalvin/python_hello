@@ -21,4 +21,4 @@ print(parrot[0:6])  # slice out up to locations six up to but not including inde
 print(parrot[3:5])
 print(parrot[:8])#start defaults to index 0 and isn't needed.
 print(parrot[10:14])
-print(parrot[10:])
+print(parrot[10:])#starts at designated location and carries to end of string
